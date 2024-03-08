@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/shuttlenetwork/shuttle"
   },
+  "keywords": [
+    "proxy"
+  ],
   "author": "",
   "license": " GPL-3.0-or-later",
   "homepage": "https://shuttleproxy.com",
@@ -21,6 +24,9 @@
     "express": "^4.18.1"
   },
   "engines": {
+    "node": ">=18.0.0"
+  }
+}
     "node": ">=18.0.0"
   }
 }
